@@ -1,0 +1,5 @@
+author: "mazzinsanity"
+delete-after: True
+changes:
+  - rscadd: "Added new hair options"
+  - rscadd: "Added new tail options"
