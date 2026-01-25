@@ -1,0 +1,8 @@
+author: "mazzinsanity"
+delete-after: True
+changes:
+  - balance: "Revivals now cause heart damage."
+  - balance: "Hearts decay much slower after death."
+  - balance: "Most medical items can now be used on the move."
+  - balance: "Most medical items have been buffed."
+  - balance: "Burn wounds have been adjusted to be much less oppressive."
