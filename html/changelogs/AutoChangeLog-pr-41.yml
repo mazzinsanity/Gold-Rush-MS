@@ -1,0 +1,8 @@
+author: "mazzinsanity"
+delete-after: True
+changes:
+  - rscadd: "Added ointment and bonegel crafting recipes"
+  - rscadd: "Added FMJ ammo, magazine, high quality gunpowder crafting recipes"
+  - rscdel: "Removed junk ammo"
+  - balance: "Important wasteland plants (broc, xander, etc.) should grow faster now"
+  - balance: "Majorly lowered crafting requirements across the board"
